@@ -17,7 +17,7 @@ body {
     height: 100%;
     stroke-dashoffset: 1000;
     stroke-dasharray: 1000;
-    animation: svganimation 5s ease-in-out forwards infinite;
+    animation: svganimation 1s ease-in-out forwards infinite;
     ;
 }
 
